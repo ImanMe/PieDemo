@@ -1,0 +1,11 @@
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.deps.json
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.runtimeconfig.json
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.runtimeconfig.dev.json
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.dll
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\bin\Debug\netcoreapp2.0\DemoApp.pdb
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.csprojResolveAssemblyReference.cache
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.csproj.CoreCompileInputs.cache
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.AssemblyInfoInputs.cache
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.AssemblyInfo.cs
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.dll
+c:\users\imemarpour\source\repos\DemoApp\DemoApp\obj\Debug\netcoreapp2.0\DemoApp.pdb
