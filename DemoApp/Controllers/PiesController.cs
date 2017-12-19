@@ -17,9 +17,11 @@ namespace DemoApp.Controllers
 
         public ViewResult List()
         {
-            var pieListViewModel = new PiesListViewModel();
-            pieListViewModel.Pies = _pieRepository.Pies;
-            pieListViewModel.CurrentCategory = "Cheese Cake";
+            var pieListViewModel = new PiesListViewModel
+            {
+                Pies = _pieRepository.Pies,
+                CurrentCategory = "Cheese Cake"
+            };
             return View(pieListViewModel);
         }
     }

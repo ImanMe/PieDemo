@@ -1,22 +1,7 @@
-﻿@using System.Globalization
-@model DemoApp.ViewModels.PiesListViewModel
+﻿@model PiesListViewModel
 
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewPort" content="width=device-width, initial-scale"/>
-    <title>Demo App</title>
-</head>
-<body>
-@Model.CurrentCategory
+<h1 class="text-warning">@Model.CurrentCategory</h1>
 @foreach (var pie in Model.Pies)
 {
-    <div>
-        <h2>@pie.Name</h2>
-        <h3>@pie.Price.ToString(CultureInfo.InvariantCulture)</h3>
-        <h4>@pie.Category.CategoryName</h4>
-    </div>
+    @Html.Partial("PieOverviewSummary", pie)
 }
-</body>
-</html>
